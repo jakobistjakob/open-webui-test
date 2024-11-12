@@ -490,7 +490,7 @@
 			class="flex-grow flex space-x-3 rounded-xl px-3.5 py-2 hover:bg-gray-200 dark:hover:bg-gray-900 transition"
 			href="https://copilot.microsoft.com/"
 			target="_blank"
-			title="Bildgenerierung mit Dalle auf Copilot">
+			title="Bildgenerierung mit Dalle auf Copilot test november">
 				<div class="self-center">
 					<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 h-4">
 						<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 3h18v18H3V3zm3 16l3-3 3 3 3-3 3 3"></path>

@@ -138,8 +138,10 @@
 						</div>
 					</div>
 
-					<div class=" capitalize text-3xl sm:text-4xl line-clamp-1" in:fade={{ duration: 100 }}>
-						neuer Text hier.						
+					<div class="text-3xl sm:text-4xl line-clamp-1" in:fade={{ duration: 100 }}>
+						Test text mit kleinen Buchstaben.
+						Zum Test mache ich hier viel Text, auch o1 werde ich schreiben, das ist ja so interessant.
+						o1 ist teuer also benutzt es bitte wenig.						
 					</div>
 				</div>
 

@@ -505,7 +505,7 @@
 		<div class="px-2 flex justify-center mt-0.5">
 			<a
 			class="flex-grow flex space-x-3 rounded-xl px-3.5 py-2 hover:bg-gray-200 dark:hover:bg-gray-900 transition"
-			href="https://google.de"
+			href="https://fimrc.sharepoint.com/sites/IT-Services/Apps/SitePages/Tipps-f%C3%BCr-Prompteingaben-bei-Large-L.aspx"
 			target="_blank"
 			title="Tipps zur Prompteingabe">
 				<div class="self-center">
@@ -514,7 +514,7 @@
 					</svg>
 				</div>
 				<div class="flex self-center">
-					<div class="self-center font-medium text-sm">Google</div>
+					<div class="self-center font-medium text-sm">Tipps für Prompts</div>
 				</div>
 			</a>
 		</div>

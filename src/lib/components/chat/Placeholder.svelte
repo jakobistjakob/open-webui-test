@@ -138,8 +138,8 @@
 						</div>
 					</div>
 
-					<div class="text-3xl sm:text-4xl line-clamp-1" in:fade={{ duration: 100 }}>
-						Test text mit kleinen Buchstaben						
+					<div class="text-3xl sm:text-4xl line-clamp-1" in:fade={{ duration: 100 }} style="font-size: 2rem;">
+						Benutzt die o1-Modelle bitte sparsam.					
 					</div>
 				</div>
 

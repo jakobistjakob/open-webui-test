@@ -35,7 +35,7 @@
 	let landingPageMode = '';
 	let chatBubble = true;
 	let chatDirection: 'LTR' | 'RTL' = 'LTR';
-	let showUpdateToast = true;
+	let showUpdateToast = false;
 
 	let showEmojiInCall = false;
 	let voiceInterruption = false;

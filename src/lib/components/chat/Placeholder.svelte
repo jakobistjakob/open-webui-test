@@ -142,7 +142,13 @@
 						o1-Modelle bitte sparsam benutzen.
 					</div>
 					<div class="text-3xl sm:text-4xl line-clamp-1" in:fade={{ duration: 100 }} style="font-size: 1.5rem; display : block">
-						Für sensible Daten: open-source Modelle.
+						Für sensible Daten nutzt ein open-source Modell:
+					</div>
+					<div class="text-3xl sm:text-4xl line-clamp-1" in:fade={{ duration: 100 }} style="font-size: 1.5rem; display : block">
+						codellama, gemma, llama3.1 oder mistral.
+					</div>
+					<div class="text-3xl sm:text-4xl line-clamp-1" in:fade={{ duration: 100 }} style="font-size: 0.6rem; display : block">
+						Im "Random Model" wird ein Model zufällig ausgewählt. Basierend auf der Qualität der erhaltenen Antworten könnt ihr diese bewerten. Diese Bewertungen werden von uns anonymisiert genutzt, um leistungsstarke Modelle zu evaluieren..
 					</div>
 				</div>
 

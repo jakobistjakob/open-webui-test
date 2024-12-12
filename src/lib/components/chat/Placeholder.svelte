@@ -137,9 +137,11 @@
 							{/each}
 						</div>
 					</div>
-
 					<div class="text-3xl sm:text-4xl line-clamp-1" in:fade={{ duration: 100 }} style="font-size: 1.5rem; display: block">
 						o1-Modelle bitte sparsam benutzen.
+					</div>
+					<div class="text-3xl sm:text-4xl line-clamp-1" in:fade={{ duration: 100 }} style="font-size: 1.5rem; display: block">
+						Für sensible Daten: open-source Modelle.
 					</div>
 				</div>
 

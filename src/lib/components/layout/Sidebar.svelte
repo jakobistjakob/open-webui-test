@@ -519,9 +519,6 @@
 			</a>
 		</div>
 
-
-
-
 		{#if $user?.role === 'admin'}
 			<div class="px-2.5 flex justify-center text-gray-800 dark:text-gray-200">
 				<a

@@ -148,7 +148,7 @@
 						codellama, gemma, llama3.1 oder mistral.
 					</div>
 					<div class="text-3xl sm:text-4xl line-clamp-1" in:fade={{ duration: 100 }} style="font-size: 0.6rem; display : block">
-						Im "Random Model" wird ein Model zufällig ausgewählt. Basierend auf der Qualität der erhaltenen Antworten könnt ihr diese bewerten. Diese Bewertungen werden von uns anonymisiert genutzt, um leistungsstarke Modelle zu evaluieren..
+						Im "Random Model" wird ein Model zufällig ausgewählt und kann basierend auf der Qualität der Antworten bewertet werden. Diese anonymisierten Bewertungen helfen uns, leistungsstarke Modelle zu evaluieren.
 					</div>
 				</div>
 

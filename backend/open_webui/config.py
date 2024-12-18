@@ -773,6 +773,7 @@ DEFAULT_ARENA_MODEL = {
     },
 }
 
+
 ENABLE_MODEL_FILTER = PersistentConfig(
     "ENABLE_MODEL_FILTER",
     "model_filter.enable",

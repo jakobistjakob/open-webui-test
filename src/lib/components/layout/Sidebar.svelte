@@ -537,7 +537,7 @@
 					</svg>
 				</div>
 				<div class="flex self-center">
-					<div class="self-center font-medium text-sm">Tipps für Prompts</div>
+					<div class="self-center font-medium text-sm">Tipps für PromptsTest</div>
 				</div>
 			</a>
 		</div>
